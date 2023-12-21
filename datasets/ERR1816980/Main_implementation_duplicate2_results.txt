@@ -1,0 +1,15 @@
+input taken
+same reads connected
+initialization complete
+complete, now printing
+Time measured: 11.0702 seconds.
+same reads connected
+initialization complete
+complete, now printing
+Time measured: 69.0076 seconds.
+same reads connected
+initialization complete
+complete, now printing
+Time measured: 687.351 seconds.
+same reads connected
+initialization complete

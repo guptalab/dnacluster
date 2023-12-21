@@ -1,0 +1,11 @@
+input taken
+initialization complete
+complete, now printing
+Time measured: 9.79011 seconds.
+initialization complete
+complete, now printing
+Time measured: 71.3465 seconds.
+initialization complete
+complete, now printing
+Time measured: 457.692 seconds.
+initialization complete

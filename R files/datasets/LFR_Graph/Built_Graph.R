@@ -1,0 +1,7 @@
+library(igraph)
+nodes <- read.csv("nodes.csv", header=T, as.is=T)
+links <- read.csv("edges.csv", header=T, as.is=T)
+head(nodes)
+head(links)
+net <- graph_from_data_frame(d=links, vertices=nodes, directed=F) 
+plot(net, vertex.color=pal2, main="LFR Graph")
