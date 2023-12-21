@@ -1,3 +1,5 @@
+Code developed and Maintained by Preet Sheth
+
 Problem Statement :- We are given N Reads(strings) S = {y1,y2,...,yN}, Our main aim is to "Partition this set", such that metric threshold between any two elements within a set in <= K. We are supposed to give the best partition which approximately matches with the actual Partition (As there are limitless partitions possible).
 
 	Mathematically :- 
